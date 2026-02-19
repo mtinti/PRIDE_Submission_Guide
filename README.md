@@ -2,7 +2,7 @@
 ### A Step-by-Step Walkthrough for Bench Scientists
 
 > **Who is this guide for?**
-> This guide is written for wet-lab researchers who need to submit proteomics data to the [PRIDE Archive](https://www.ebi.ac.uk/pride/) but have limited experience with the command line. Each step is explained in plain language, with commands you can copy and paste directly.
+> This guide is written for wet-lab researchers who need to submit proteomics data to the [PRIDE Archive](https://www.ebi.ac.uk/pride/) 
 
 ---
 
@@ -256,4 +256,3 @@ This will generate a checksum file (e.g., `checksum.txt`) inside your submission
 ---
 
 *Guide prepared for internal use — University of Dundee, School of Life Sciences.*
-*For questions, contact your local bioinformatics support team.*
